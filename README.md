@@ -146,6 +146,17 @@ Potential next steps include:
 
 See the `LICENSE` file in this repository.
 
+--- 
+
+## Acknowledgements
+
+This material was developed and/or adapted with support from the National
+Science Foundation through the QCAP-NQVL-Pilot and QCAP-NQVL-Design efforts
+under NSF Award Nos. OSI-2410813 and OSI-2531569.
+Any opinions, findings, conclusions, or recommendations expressed in this
+material are those of the author(s) and do not necessarily reflect the views
+of the National Science Foundation.
+
 ## Author
 
 Boris Kiefer
